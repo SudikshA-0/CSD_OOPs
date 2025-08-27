@@ -3,7 +3,7 @@ package lec1;
 //late polymorphism
 
 class A1{
-    Object m1(){
+    Object m1() {
         System.out.println("Coming from m1 method");
     }
 }
