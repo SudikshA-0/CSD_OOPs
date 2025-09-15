@@ -31,3 +31,4 @@ catch(Exception e){
         System.out.println("BBye!!");
     }
 }
+//obj created by main method (exception,description, stack trace) , then jvm  pass it to default exception handler
