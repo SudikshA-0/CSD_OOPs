@@ -22,30 +22,5 @@ public class A2 {
 
         System.out.println(list);
 
-
-
-
-
-
-
-//
-//        for(Object i : list){
-//            System.out.println(i);
-//        }
-//
-//        ArrayList list1 = new ArrayList();
-//        list1.add(11);
-//        list1.add(0,122);
-//        list1.add(list);
-//        System.out.println(list1);
-//
-//        list1.addAll(list);
-//        System.out.println(list1);
-
-//        for(int i = 0; i <list.size(); i++)
-//        {
-//            System.out.println(list.get(i));
-//
-//        }
     }
 }
